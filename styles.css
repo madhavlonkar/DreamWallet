@@ -44,5 +44,6 @@
 @media (max-width: 767px) {
     .border-end {
         border-right: none !important;
+        border-bottom: .2px solid white;
     }
 }
